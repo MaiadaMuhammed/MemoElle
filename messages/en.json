@@ -1,0 +1,25 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "shop": "Shop",
+    "about": "Our Story",
+    "contact": "Contact",
+    "cart": "Shopping Bag",
+    "wishlist": "Wishlist",
+    "account": "My Account",
+    "search": "Search",
+    "logout": "Sign Out"
+  },
+  "Hero": {
+    "title": "Elegance is an Attitude",
+    "subtitle": "Fall / Winter 2026",
+    "desc": "Discover the new essence of luxury. A collection designed for the modern muse.",
+    "shopBtn": "Shop Collection",
+    "viewBtn": "View Lookbook"
+  },
+  "Common": {
+    "currency": "EGP",
+    "addToCart": "Add to Bag",
+    "footerDesc": "Redefining luxury for the modern individual."
+  }
+}
